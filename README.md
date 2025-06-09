@@ -24,3 +24,55 @@ npm install
 
 # Start the development server
 npm run dev
+
+🔧 Tech Stack
+Vue 3 with <script setup>
+
+Vue Router for navigation
+
+Vite for dev server and builds
+
+Scoped CSS in each component
+
+Git + GitHub for version control
+
+📁 Project Structure
+csharp
+Copy
+Edit
+vue-portfolio-app/
+├── public/
+├── src/
+│   ├── assets/             # Images, icons, etc.
+│   ├── components/         # Reusable components (e.g., Navbar)
+│   ├── router/             # Vue Router setup
+│   ├── views/              # Login, Profile, Showcase, Contact, Creative
+│   ├── App.vue             # Root component
+│   └── main.js             # Entry file
+├── package.json
+└── README.md
+✍️ Author
+John Marvic F. Nabus
+Frontend Developer
+GitHub: https://github.com/jhncvrm
+
+📄 License
+This project is open source and available under the MIT License.
+
+yaml
+Copy
+Edit
+
+---
+
+### ✅ Next Step:
+1. Create the file:
+   - In VS Code: Right-click in the explorer > **New File** > `README.md`
+   - Paste the content above.
+2. Save the file.
+3. Then commit it:
+
+```bash
+git add README.md
+git commit -m "Add README.md for GitHub"
+git push
